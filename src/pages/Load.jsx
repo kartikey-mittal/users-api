@@ -15,7 +15,7 @@ const Load = () => {
                 
                 <span style={{ marginTop: '10px', color: '#FFB001', fontSize: 20, fontWeight: 'normal', marginBottom: '10px', fontFamily: "DMM" }}>Made with ♥ by Kartikey Mittal</span>
 
-                <a href="https://github.com/kartikey-mittal?tab=repositories" target="_blank" rel="noreferrer">
+                <a href="https://github.com/kartikey-mittal/users-api" target="_blank" rel="noreferrer">
                     <span style={{ marginTop: '10px', color: '#009FFD', fontSize: 20, fontWeight: 'normal', marginBottom: '10px', fontFamily: "DMM" }}>
                         Github Repository Code
                     </span>
